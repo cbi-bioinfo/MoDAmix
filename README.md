@@ -4,10 +4,20 @@ A Unified Framework for Correcting Batch Effects and Integrating Multi-Omics Dat
 ## Requirements
 * Python (>= 3.6)
 * Pytorch (>= v1.6.0)
-* Other python packages : numpy (>=1.19.1), pandas (>=1.1.1), os, sys, random
+* Other python packages : numpy (>=1.19.1), pandas (>=1.1.1), os, sys
 
 ## Usage
 Clone the repository or download source code files.
+
+## Installation
+To install TSCytoPred, run either:
+```
+pip install -r requirements.txt
+```
+or clone the repository and run:
+```
+pip install tscytopred
+```
 
 ## Inputs
 [Note!] All the example datasets can be found in './example_data/' directory.
