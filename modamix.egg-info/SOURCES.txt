@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+modamix.egg-info/PKG-INFO
+modamix.egg-info/SOURCES.txt
+modamix.egg-info/dependency_links.txt
+modamix.egg-info/not-zip-safe
+modamix.egg-info/requires.txt
+modamix.egg-info/top_level.txt
