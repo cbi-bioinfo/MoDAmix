@@ -10,13 +10,13 @@ A Unified Framework for Correcting Batch Effects and Integrating Multi-Omics Dat
 Clone the repository or download source code files.
 
 ## Installation
-To install TSCytoPred, run either:
+To install MoDAmix, run either:
 ```
 pip install -r requirements.txt
 ```
 or clone the repository and run:
 ```
-pip install tscytopred
+pip install modamix
 ```
 
 ## Inputs
